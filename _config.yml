@@ -1,9 +1,18 @@
-layout_spectrum: 0.7225724966265261
-typography_spectrum: 0.19069197843782604
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.21906828065402806
-  lightness: 0.5800462937913835
   saturation: 0.04351531993597746
+  brandStrength: 0.2190682806540281
   rhythmicContrast: 0.5152033432386816
   brandColors:
     - '#E8E595'
@@ -11,4 +20,7 @@ color:
     - '#40627C'
     - '#26393D'
     - '#FFFAE4'
+  lightness: 0.5800462937913835
+typography_spectrum: 0.3979592
+layout_spectrum: 0.7803437
 name: Sincerely J
