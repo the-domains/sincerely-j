@@ -1,14 +1,14 @@
-layout_spectrum: 0.8039928085636348
-typography_spectrum: 0.0258412123657763
+layout_spectrum: 0.7225724966265261
+typography_spectrum: 0.05530929681845009
 color:
-  brandStrength: 0.992530967341736
-  lightness: 0.20027322764508426
-  saturation: 0.1701222355477512
-  rhythmicContrast: 0.32302355905994773
+  brandStrength: 0.21906828065402806
+  lightness: 0.5800462937913835
+  saturation: 0.04351531993597746
+  rhythmicContrast: 0.5152033432386816
   brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
 name: Sincerely J
