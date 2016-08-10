@@ -11,16 +11,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.04351531993597746
-  brandStrength: 0.2190682806540281
-  rhythmicContrast: 0.5152033432386816
+  saturation: 0.5150304266717285
+  brandStrength: 0.3585020510945469
+  rhythmicContrast: 0.1843955486547202
   brandColors:
-    - '#E8E595'
-    - '#D0A825'
-    - '#40627C'
-    - '#26393D'
-    - '#FFFAE4'
-  lightness: 0.5800462937913835
-typography_spectrum: 0.3979592
-layout_spectrum: 0.7803437
+    - '#F2F4E7'
+    - '#F48100'
+    - '#004F81'
+    - '#8B0109'
+    - '#00945E'
+  lightness: 0.709397301543504
+typography_spectrum: 0.4902497665025294
+layout_spectrum: 0.4455750994384289
 name: Sincerely J
